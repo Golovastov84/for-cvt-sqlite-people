@@ -1,5 +1,5 @@
 Запуск программы в командной строке
-D:/java/CVT/Готовый_jar_файл>java -jar CVT_SQLite.jar
+D:\java\CVT\for-cvt-sqlite-people>java -jar CVT_SQLite.jar
 Запуск браузера в режиме инкогнито
 http://localhost:8080/
 
@@ -7,5 +7,5 @@ http://localhost:8080/
 
 cd C:/
 d:
-cd D:/java/CVT/Готовый_jar_файл
+cd D:\java\CVT\for-cvt-sqlite-people
 java -jar CVT_SQLite.jar
